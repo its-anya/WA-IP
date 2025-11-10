@@ -16,3 +16,11 @@ This repository contains scripts for capturing STUN traffic (via tshark) and per
 - `capture.ps1` — packet capture and parsing
 - `ip_geo.ps1` — geolocation helpers
 - `run.ps1` — runner/example usage
+
+# install 
+you need [whatsapp desktop](https://apps.microsoft.com/detail/9nksqgp7f2nh) and [wire shark](https://www.wireshark.org/download.html) in your windows  
+
+
+
+
+
