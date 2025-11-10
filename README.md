@@ -18,7 +18,7 @@ This repository contains scripts for capturing STUN traffic (via tshark) and per
 - `run.ps1` — runner/example usage
 
 # install 
-you need [whatsapp desktop](https://apps.microsoft.com/detail/9nksqgp7f2nh) and [wire shark](https://www.wireshark.org/download.html) in your windows  
+you need [whatsapp desktop](https://apps.microsoft.com/detail/9nksqgp7f2nh) and [wire shark](https://www.wireshark.org/download.html) in your windows  and run thise script [WA_IP.ps1](https://raw.githubusercontent.com/its-anya/WA-IP/refs/heads/main/WA_IP.ps1) using administrator mod and call anyone and wait a moment and look a magic.
 
 
 
