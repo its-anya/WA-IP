@@ -15,3 +15,5 @@ This repository contains scripts for capturing STUN traffic (via tshark) and per
 - `ip_geo.ps1` — geolocation helpers
 - `run.ps1` — runner/example usage
 
+- `WA_IP.ps1` — main script adding tomorrow 
+
