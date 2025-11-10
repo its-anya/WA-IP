@@ -5,7 +5,7 @@ WhatsApp call IP capture tool currently only for a Windows using wireshark
 <!--Note this script  is a currently under build-->
 
 
-# Tool
+# WhatsApp IP Detector with Enhanced Geolocation
 This repository contains scripts for capturing STUN traffic (via tshark) and performing IP geolocation lookups using free APIs.
 
 
