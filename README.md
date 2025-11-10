@@ -2,7 +2,7 @@
 WhatsApp call IP capture tool currently only for a Windows using wireshark
 
 
-Note this tool is a currently under build
+Note this script  is a currently under build
 
 
 # Tool
