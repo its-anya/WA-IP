@@ -20,7 +20,12 @@ This repository contains scripts for capturing STUN traffic (via tshark) and per
 # install 
 you need [whatsapp desktop](https://apps.microsoft.com/detail/9nksqgp7f2nh) and [wire shark](https://www.wireshark.org/download.html) in your windows  and run thise script [WA_IP.ps1](https://raw.githubusercontent.com/its-anya/WA-IP/refs/heads/main/WA_IP.ps1) using administrator mod and call anyone and wait a moment and look a magic.
 
-
-
+# INSTRUCTIONS 
+```INSTRUCTIONS
+ 1. Start WhatsApp Desktop
+ 2. Call target NOW (they must answer)
+ 3. Target IP + location will auto-appear
+ 4. Press Ctrl+C to stop
+```
 
 
